@@ -1,0 +1,10 @@
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\bin\Debug\ProjectInfo.exe.config
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\bin\Debug\ProjectInfo.exe
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\bin\Debug\ProjectInfo.pdb
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\obj\Debug\ProjectInfo.csprojAssemblyReference.cache
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\obj\Debug\ProjectInfo.ProjectInfoForm.resources
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\obj\Debug\ProjectInfo.Properties.Resources.resources
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\obj\Debug\ProjectInfo.csproj.GenerateResource.cache
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\obj\Debug\ProjectInfo.csproj.CoreCompileInputs.cache
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\obj\Debug\ProjectInfo.exe
+C:\Users\labuser\source\repos\ProjectInfo\ProjectInfo\obj\Debug\ProjectInfo.pdb
